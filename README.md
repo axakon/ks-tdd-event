@@ -1,14 +1,14 @@
-# News letter subscription
+# Newsletter subscription
 
 ## Problem description
 
-**Laughter Inc.** is a Dutch company and they have created the best news letter ever. Where they, on a weekly basis, sends out the best **Brexit** jokes on the internet. 
+**Laughter Inc.** is a Dutch company and they have created the best newsletter ever. Where they, on a weekly basis, send out the best **Brexit** jokes on the internet. 
 
 Their process is very manual today, each subscriber signs up by typing their email into a subreddit and the administrators manually type their email into the system.
 
-Now, to help **Laughter Inc.** increase their subscriber count, they need help with creating a website which can remove this manual labour.
+Now, to help **Laughter Inc.** increase their subscriber count, they need help with creating a website which can remove this manual labor.
 
-Create a webb application, which, given an email, will sign up a user to a weekly news letter service.
+Create a web application, which, given an email address, will sign up a user to a weekly newsletter service.
 
 ## Stage 1
 
